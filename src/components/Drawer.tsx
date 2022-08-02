@@ -40,7 +40,7 @@ export default function TemporaryDrawer() {
 
             <a
               target="_blank"
-              href="https://sbschallenge.vercel.app/"
+              href="https://sbswebb.vercel.app/"
             >
               <ListItem key="2" disablePadding>
                 <ListItemButton>
